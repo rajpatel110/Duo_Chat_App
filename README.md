@@ -24,7 +24,6 @@ A modern and responsive real-time chat application built using **HTML5**, **CSS3
 <br><br>
 ![2](https://user-images.githubusercontent.com/68046853/123756782-e916fc80-d8da-11eb-9d8b-bc1fbcc6cdec.jpeg)
 <br><br>
-![4](https://user-images.githubusercontent.com/68046853/123756881-ffbd5380-d8da-11eb-973d-767a2f3f017b.jpeg)
 
 
 
